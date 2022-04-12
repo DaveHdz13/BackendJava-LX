@@ -15,7 +15,7 @@ Create **Inheritance** with its diferent types such as:
  - **Multi-level Inheritance**
  - **Hierarchical Inheritance**
 
-The first example is in [Animal Package](/src/Week_01/Animal/) as a parent class qith [Lion](/src/Week_01/Animal/Lion.java) and [Spider](/src/Week_01/Animal/Spider.java) as child classes.
+The first example is in [Animal Package](/src/Week_01/Animal/) as a **parent class** with [Lion](/src/Week_01/Animal/Lion.java) and [Spider](/src/Week_01/Animal/Spider.java) as **child classes**.
 
 ***
 
