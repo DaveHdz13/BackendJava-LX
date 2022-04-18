@@ -37,6 +37,23 @@ Characters picked:
  - [Meliodas](/src/Week_02/SevenDS/Meliodas.java)
  - [Zeldris](/src/Week_02/SevenDS/Zeldris.java)
 
+## Task 5
+This task uses interfaces and its based on **Pokemons** as an example.
+
+The interfaces are split by **Attack Type Category** (fire attacks, bug attacks, normal attacks, etc.).
+
+I used 3 pokemon:
+ - [Scyther](/src/Week_02/Pokemon/Scyther.java)
+ - [Rattata](/src/Week_02/Pokemon/Ratata.java)
+ - [Ponyta](/src/Week_02/Pokemon/Ponyta.java)
+
+Each of those pokemon have **[Normal Attacks](/src/Week_02/Pokemon/N_Attacks.java)** and its own **Type Attacks** wich are specified in an interface.
+
+Type Attacks:
+ - [Fire](/src/Week_02/Pokemon/Fire.java)
+ - [Bug](/src/Week_02/Pokemon/Bug.java)
+ - [Flying](/src/Week_02/Pokemon/Flying.java)
+
 ***
 
 By Dave :D (**add images reminder**)
